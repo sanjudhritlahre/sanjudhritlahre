@@ -2,7 +2,7 @@
 I'm currently a college student<br>
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F52005319%2FGif-Animated-Hacking-Photoshop-Action&psig=AOvVaw2VFDb2eqiGNu17tzpDeYX7&ust=1684269734943000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCNCLy8SX-P4CFQAAAAAdAAAAABAX)" width="600" height="300"/>
+  <img src="https://wallpapercave.com/wp/wp9399023.jpg" width="600" height="300"/>
 </div>
 
 ## 🌐 Socials:
