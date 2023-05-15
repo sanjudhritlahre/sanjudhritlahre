@@ -25,9 +25,7 @@ I'm currently a college student<br>
 ![](https://github-contributor-stats.vercel.app/api?username=sanjudhritlahre&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="894px"/>
+<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sanjudhritlahre&icon=2&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
