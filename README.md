@@ -6,11 +6,12 @@ In my free time, I love Learning New Skills.
 I’m open for collaboration 🧠 on Any kind of projects.
 Currently Learning AI & ML 🤯 and working on improving my Data Structures and Algorithm skills👨‍💻.
 
+  
 <div align="center">
   <img src="https://wallpapercave.com/wp/wp9399023.jpg" width="100%"/>
 </div>
 
-## 🌐 ## 🤝🏻 Connect with Me: <img src="/SatYu26/SatYu26/blob/master/Assets/Handshake.gif?raw=true">
+## 🤝🏻 Connect with Me: <img src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Handshake.gif">
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cre.ative_learners) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YourUsername/)](https://www.linkedin.com/in/YourUsername/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/YourUsername/)](https://twitter.com/YourUsername/)
