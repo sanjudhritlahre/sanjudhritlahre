@@ -2,7 +2,7 @@
 I'm currently a college student<br>
 
 <div align="center">
-  <img src="https://wallpapercave.com/wp/wp9399023.jpg" width="100%" height="5038"/>
+  <img src="https://wallpapercave.com/wp/wp9399023.jpg" width="100%" height="3038"/>
 </div>
 
 ## 🌐 Socials:
