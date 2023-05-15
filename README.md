@@ -31,8 +31,11 @@ In my free time, I love Learning New Skills.
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sanjudhritlahre&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+## &#x1f4c8; GitHub Stats
 
----
-[![](https://visitcount.itsvg.in/api?id=sanjudhritlahre&icon=2&color=1)](https://visitcount.itsvg.in)
+<a href="https://github.com/YourUsername/YourUsername">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&hide=html,css&theme=radical" />
+</a>
+<a href="https://github.com/YourUsername/YourUsername">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="Your Username's GitHub Stats" />
+</a>
