@@ -1,17 +1,18 @@
 # 💫 About Me:
 <h3 aligne="left">Hi there, I'm <b> Sanju Dhritlahre (creativebloke.in) 👋</h3>
-I'm currently BCA 1st year student from Raipur. 
-I enjoy working on App Development and App Development. 
-In my free time, I love Learning New Skills.
-I’m open for collaboration 🧠 on Any kind of projects.
-Currently Learning AI & ML 🤯 and working on improving my Data Structures and Algorithm skills👨‍💻.
-
+<ul>
+<li>I'm currently BCA 1st year student from Raipur.</li>
+<li>I enjoy working on App Development and App Development.</li>
+<li>In my free time, I love Learning New Skills.</li>
+<li>I’m open for collaboration 🧠 on Any kind of projects.</li>
+<li>Currently Learning AI & ML 🤯 and working on improving my Data Structures and Algorithm skills👨‍💻.</li>
+</u>
   
 <div align="center">
   <img src="https://wallpapercave.com/wp/wp9399023.jpg" width="100%"/>
 </div>
 
-## 🤝🏻 Connect with Me: <img src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Handshake.gif">
+## 🤝🏻 Connect with Me: <img width="25px" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Handshake.gif">
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cre.ative_learners) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YourUsername/)](https://www.linkedin.com/in/YourUsername/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/YourUsername/)](https://twitter.com/YourUsername/)
