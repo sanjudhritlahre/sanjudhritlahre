@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi there, I'm Sanju Dhritlahre (creativebloke.in) 👋
-I'm a Begginner Level developer from Raipur. I enjoy working on App Development and App Development. In my free time, I love Learning New Skills.
+I'm a Begginner Level developer from Raipur. 
+I enjoy working on App Development and App Development. 
+In my free time, I love Learning New Skills.
 
 <div align="center">
   <img src="https://wallpapercave.com/wp/wp9399023.jpg" width="100%"/>
@@ -9,9 +11,8 @@ I'm a Begginner Level developer from Raipur. I enjoy working on App Development 
 ## 🌐 ## 🤝🏻 Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cre.ative_learners) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YourUsername/)](https://www.linkedin.com/in/YourUsername/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/YourUsername/)](https://www.instagram.com/YourUsername/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/YourUsername/)](https://twitter.com/YourUsername/)
-[![Website](https://img.shields.io/badge/-Website-black?style=flat&logo=Internet%20Explorer&logoColor=white&link=YourWebsite)](YourWebsite)
+[![Website](https://img.shields.io/badge/-Website-black?style=flat&logo=Internet%20Explorer&logoColor=white&link=YourWebsite)](creativebloke.in)
 
 
 # 💻 Tech Stack:
