@@ -30,12 +30,3 @@ In my free time, I love Learning New Skills.
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sanjudhritlahre&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/YourUsername/YourUsername">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&hide=html,css&theme=radical" />
-</a>
-<a href="https://github.com/YourUsername/YourUsername">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="Your Username's GitHub Stats" />
-</a>
