@@ -1,14 +1,16 @@
 # 💫 About Me:
-Hi there, I'm Sanju Dhritlahre (creativebloke.in) 👋
-I'm a Begginner Level developer from Raipur. 
+<h3 aligne="left">Hi there, I'm <b> Sanju Dhritlahre (creativebloke.in) 👋</h3>
+I'm currently BCA 1st year student from Raipur. 
 I enjoy working on App Development and App Development. 
 In my free time, I love Learning New Skills.
+I’m open for collaboration 🧠 on Any kind of projects.
+Currently Learning AI & ML 🤯 and working on improving my Data Structures and Algorithm skills👨‍💻.
 
 <div align="center">
   <img src="https://wallpapercave.com/wp/wp9399023.jpg" width="100%"/>
 </div>
 
-## 🌐 ## 🤝🏻 Connect with Me:
+## 🌐 ## 🤝🏻 Connect with Me: <img src="/SatYu26/SatYu26/blob/master/Assets/Handshake.gif?raw=true">
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cre.ative_learners) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YourUsername/)](https://www.linkedin.com/in/YourUsername/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/YourUsername/)](https://twitter.com/YourUsername/)
@@ -30,3 +32,10 @@ In my free time, I love Learning New Skills.
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sanjudhritlahre&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Mac%20OS%20X-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
