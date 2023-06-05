@@ -2,7 +2,7 @@
 <h3 aligne="left">Hi there, I'm <b> Sanju Dhritlahre (creativebloke.in) 👋</h3>
 <ul>
 <li>I'm currently BCA 1st year student from Raipur.</li>
-<li>I enjoy working on App Development and App Development.</li>
+<li>I enjoy working on Web Development and App Development.</li>
 <li>In my free time, I love Learning New Skills.</li>
 <li>I’m open for collaboration 🧠 on Any kind of projects.</li>
 <li>Currently Learning AI & ML 🤯 and working on improving my Data Structures and Algorithm skills👨‍💻.</li>
