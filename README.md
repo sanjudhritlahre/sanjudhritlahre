@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2 aligne="left">Hi there, I'm <b> Sanju Dhritlahre (creativebloke.in) 👋</h2>
+<h2 aligne="left">Hi there, I'm <b> Sanju Dhritlahre👋</h2>
 <ul>
 <li>I'm currently BCA 1st year student from Raipur.</li>
 <li>I enjoy working on Web Development and App Development.</li>
